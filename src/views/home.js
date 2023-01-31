@@ -117,11 +117,7 @@ const Home = (props) => {
         </div>
       </section>
       <section className="home-note">
-        <h2 className="home-caption01">
-          The most comprehensive lorem ipsum dolor sit amet, consectetur
-          adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-          magna.
-        </h2>
+        <h2 className="home-caption01">This is a test change.</h2>
       </section>
       <section className="home-statistics">
         <div className="home-content">
